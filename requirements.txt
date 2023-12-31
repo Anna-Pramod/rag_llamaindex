@@ -15,7 +15,6 @@ certifi==2019.11.28
 chardet==3.0.4
 charset-normalizer==3.2.0
 Click==7.0
-cloud-init
 cmake==3.27.4.1
 colorama==0.4.3
 comm==0.1.4

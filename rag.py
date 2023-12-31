@@ -21,7 +21,7 @@ os.environ['CURL_CA_BUNDLE'] = ''
 os.environ['HTTP_PROXY']='http://gateway.zscaler.net:9400'
 os.environ['HTTPS_PROXY']='http://gateway.zscaler.net:9400'
 
-documents = SimpleDirectoryReader("/mnt/c/Users/235095/Documents/tstchat/LLama2ChatBot/appa").load_data()
+documents = SimpleDirectoryReader("./appa/Purchase procedure dated 12.04.2023.pdf").load_data()
 
 # required_exts = [".md"]
 # reader = SimpleDirectoryReader(
